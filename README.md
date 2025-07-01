@@ -2,7 +2,7 @@
 
 ![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![Java](https://img.shields.io/badge/Java-11+-orange)
+![Java](https://img.shields.io/badge/Java-8+-orange)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 Um sistema completo para gerenciar notas de estudantes, calcular médias e determinar aprovações de forma automatizada.
