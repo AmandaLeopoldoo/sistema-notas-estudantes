@@ -1,7 +1,9 @@
 # 🎓 Sistema de Gestão de Notas de Estudantes
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Java](https://img.shields.io/badge/Java-11+-orange)
+![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 Um sistema completo para gerenciar notas de estudantes, calcular médias e determinar aprovações de forma automatizada.
 
